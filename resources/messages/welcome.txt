@@ -1,0 +1,2 @@
+Welcome to our Jenkins pipeline!
+Today is a great day for automation.
