@@ -1,6 +1,6 @@
-def call (string result){
+def call (String result){
 
-  if(result=="SUCCESS"){
+  if($result=="SUCCESS"){
     echo "Curerent Build is successful"
   }
   else{
